@@ -139,16 +139,7 @@ def savedatatofirebase():
 
 
 config = {
-  "type": "service_account",
-  "project_id": "steve-be596",
-  "private_key_id": "d8d5ac192ba3f0bc66f66191edc7265399b6ed0f",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCsQ6NCrAvgQ+XC\nmg160G9IZ37RKGqtiAiI3SNhU7wEmezxlKLzr0UmWZC4BQO1FliapYxHCjPLrpvN\n8oSXC36oK+aPxPoXayEq6voN8dMDqBGWPx8MqEgYSvoOmCJqtkb6/1wpl9rq8oi1\nb/gqxlord8bjty+4tpsd80Z8p/MonAu5YA6MBJEGi1DEu70JJH/pjE3GC73QEYv7\nEtyG5H3cqj4iNUin7qiqUE8XIbKE3Ozw1gLEy72DCmBRhmSYnqIDysBI/l+fWnNA\naAG0+HymsBksRsy3wCX+0OPI4ln6eUO4AjPz8tPvs5Ob4j4YCg8ed4wqguQQEosC\ndNyen4+NAgMBAAECggEAG3jH6wSL+k5psFCoEKt368iRiWKULKtyjP0TPNzBMcyo\nZFhrakhL01NaSHaIQlNXewYmqleerf9hGoVwDrSHFOO3Z7smlSCBEBqcGSg1GjKt\n51OWrIqTwMgIO9aYOoNqK3IY7QsqHujh02mRXqT2UVNPNRaMNj1s3GhlF9Ei7pk8\nz9+LlExPAbvyP+0xuV62266ssFjOyh9G+eEPwdKIy5Fs/6q+3UGFuN6nKRZkyv0E\nHrhYLxwQ1ihhplud5eu4UuisdwObU3oY1FkeFVpq3STdffPItMXpBewjGd+XmBfh\n3Ik092qLJ56tUk4cEt95sh/96h6B7Bp1mBCay26MkwKBgQDo/Vaxmht8PBvAMun3\nfDvUSf9rwVE3qWY+rFXMC/cdAQux9mhdgZlYH78OAfCWfZL51z52ISgTvLjV8ZSn\n/hl2kURiKhh/Lt7O1a0LLn8Snp7wXerYppO8pRBxC+IPvu/S1CfZ94pd3NroMyRg\nb1QgxqgX+TQalXF3vTkpAnNXqwKBgQC9RvuZOpAMytp1E/6hAPBbID3RsVBmaI5+\nmR0p4iaFKvmKnQr8Xnn7mTGEsV1l0d82xXfIaw1FUaXXds2Qn5/TVsXrsSNfgByy\nFgGt2h8fp1i0DBb8hCI2+GiGrRyqy8VayUAsYx+wAqjumMz+cd4Abe+potC3BR8n\nXgQwblkdpwKBgQDV5EWjdEvJSNFdKCCcoEO4x1oijW3HQM/pt4JoeY+Z4+zdqs3z\nEdg6C6L09Bjvv0af8NeZ0SSewgGZ/1cuxlqP/BqgV+73S4smrQlYm43zBQX6uu2v\niXVVmN+4OGWHeQ1oKnaPZu5y7x9UTicWFP5RvK5ym8gWo51whJmmKWbEUwKBgHJS\njWTfmmIfpBNTIFje2E4yCyS8lHNGc8rDcHn7vohwjIjMkfYcmlD9FouvFVqKiOfs\nHY1QG5Pi3OhnOYJA56geoSzasSLdnndyE1GOjX3w9gLJyph6tq+9GmU96jK/IVTU\neY5V0K3e7WovoKGO5SgdPsSXMrlYvphokN8vx2PBAoGBANNNJReBDJVidv+TNisy\nUtFlelTm49BtLhuW1pbvKWaxEMSzjrjAWY5AOPJtGsYdsZbHysBs9U8kWxS8gd/w\nC0d7xCBWJjYdRPc70LzLElXExPeXlxRkN3S67u6hkOL29TOMYc0Z8ZlJmaB5tGil\n6EOtR7qWk+PFeRT+KWOyUoJU\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-wfy5n@steve-be596.iam.gserviceaccount.com",
-  "client_id": "106367359376457618206",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-wfy5n%40steve-be596.iam.gserviceaccount.com"
+  add your firebasse config here
 }
 
 
